@@ -1,2 +1,12 @@
-# Medical-Image-Disease-Detector
-Deep Learning Mini Project for Brain Tumour, Skin Cancer and Pneumonia Detection
+---
+title: Medical Image Disease Detector
+emoji: ⚡
+colorFrom: indigo
+colorTo: green
+sdk: gradio
+sdk_version: 6.9.0
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
