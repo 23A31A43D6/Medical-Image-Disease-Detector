@@ -39,3 +39,9 @@ Contributed by Pravallika Devi:
 - Output Verification
 - Documentation Update
 - Model File Integration
+
+## Model Training Result
+
+Below is the screenshot showing model training and prediction result.
+
+![Model Training Result](model_training_result.png)
